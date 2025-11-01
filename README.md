@@ -114,7 +114,7 @@ boxoffice-prediction-youtube-powerbi/
 **Athmika TP**  
 Aspiring Data Analyst | Power BI Enthusiast | Machine Learning Explorer  
 
-📫 [LinkedIn](#) | [Email](#)
+📫 [LinkedIn](#) | [athmikatp1234@gmail.com](#)
 
 ---
 
