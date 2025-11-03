@@ -63,8 +63,6 @@ The workflow mirrors real-world data analytics pipelines used in entertainment a
 -  Engagement-to-revenue correlation visuals  
 -  KPI cards showing top-performing genres and studios  
 
-*(Add dashboard screenshot here, e.g. `/images/powerbi_dashboard.png`)*
-
 ---
 
 ##  Machine Learning Insights
